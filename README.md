@@ -1,5 +1,7 @@
 # CERITA
 
+CERITA project
+
 ## Step 0 - Schedule development
 
 ```mermaid
