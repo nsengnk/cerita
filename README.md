@@ -2,10 +2,20 @@
 
 ## Step 1 - Clone the template repository
 
-
+```bash 
 git clone git@github.com:nsengnk/cerita.git
 cd cerita
+```
 
+## Step 2 - Create new branch
+```bash
+# Aller sur la branch principale
+git checkout main
+# Mettre à jour la branche avec les dernières modifications
+git pull origin main
+# Créer une nouvelle branche basée sur la branche principale
+git checkout -n num_issue/feature_name
+```
 ## Dev process
 
 ```mermaid
