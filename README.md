@@ -34,5 +34,5 @@ git checkout main
 # Mettre à jour la branche avec les dernières modifications
 git pull origin main
 # Créer une nouvelle branche basée sur la branche principale
-git checkout -n num_issue/feature_name
+git checkout -b num_issue/feature_name
 ```
