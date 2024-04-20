@@ -1,6 +1,6 @@
 # Usage charter
 
-Everyone who joins this project should know that no language is imposed on him. The developer is free to choose his frontend and backend languages. The only thing required is to create his own branch (separated to the main one) and code the website according to the instructions contained in the index.txt files of the frontend and backend folders of the main branch.  
+Everyone who joins this project should know that no language is imposed on him. The developer is free to choose his frontend and backend languages. The only thing required is to create his own branch (separated to the main one) and code the website according to the instructions contained in the index.txt files of the frontend and backend folders in the main branch.  
 
 # Overview-CERITA: Creation of Repository and branches for developers
 
