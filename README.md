@@ -40,3 +40,28 @@ git pull origin main
 # Créer une nouvelle branche basée sur la branche principale
 git checkout -b num_issue/feature_name
 ```
+
+## Fonctionnalités attendues
+
+- site d'information :
+    - consulter un article (un exemple d'article)
+    - abonnement news d'un utilisateur
+    - envoi automatique d'articles (par mail?)
+    - Présentation du collectif
+    - 
+
+- Développer des robots pour le scraping (à éclaircir)
+    - définir le type de données à scraper?
+    - ajouter une couche web scraping
+
+- 
+
+
+## Techo
+
+- ReactJS pour le frontend
+    - Brasco fournit un fichier de config avec l'installation de toutes les dépendances
+- NodeJS pour le backend
+
+
+
