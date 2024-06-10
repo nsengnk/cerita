@@ -4,6 +4,7 @@ CERITA project
 
 **Lorsque vous écrivez du code pour vous-même, la seule priorité est de le faire fonctionner. Cependant, travailler dans une équipe de développeurs exige de coordonner les actions de toutes les personnes travaillant sur le même code.**
 
+# Convention 
 ## Step 0 - Schedule development
 
 ```mermaid
