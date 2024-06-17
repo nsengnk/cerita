@@ -4,6 +4,12 @@ CERITA project
 
 **Lorsque vous écrivez du code pour vous-même, la seule priorité est de le faire fonctionner. Cependant, travailler dans une équipe de développeurs exige de coordonner les actions de toutes les personnes travaillant sur le même code.**
 
+# Convention de nommage
+
+## CSS
+
+Les classes doivent être nomées comme suit: ma-class-de-navigation (kebab-case)
+
 ## Step 0 - Schedule development
 
 ```mermaid
@@ -23,15 +29,15 @@ graph TD
     check --> push
 ```
 
-
 ## Step 1 - Clone the template repository
 
-```bash 
+```bash
 git clone git@github.com:nsengnk/cerita.git
 cd cerita
 ```
 
 ## Step 2 - Create new branch
+
 ```bash
 # Aller sur la branche principale
 git checkout main
