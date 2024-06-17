@@ -15,7 +15,7 @@ const recherche_nav_bar = ref("");
       >
         <el-menu-item index="0"
           ><img
-            src="../../src/images/LogoCERITA.png"
+            src="@/assets/images/LogoCERITA.png"
             style="width: 40%"
             alt="Logo CERITA"
         /></el-menu-item>
@@ -45,6 +45,7 @@ const recherche_nav_bar = ref("");
 <style scoped>
 .nav-bar {
   padding: 2%;
+  padding-bottom: 0%;
 }
 .options-navigations {
   padding-top: 2%;
