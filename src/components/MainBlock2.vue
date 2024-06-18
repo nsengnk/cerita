@@ -33,11 +33,6 @@ import { ArrowLeft, ArrowRight } from "@element-plus/icons-vue";
         :texte="'Focus sur la nouvelle stratégie cyber de l\'Etat gabonais'"
       />
     </div>
-    <!-- <div class="col-lg-1"></div>
-    <div class="col-lg-2 carte"><CarteMainBlock2 /></div>
-    <div class="col-lg-1"></div>
-    <div class="col-lg-2 carte"><CarteMainBlock2 /></div>
-    <div class="col-lg-2"></div> -->
   </div>
 </template>
 
