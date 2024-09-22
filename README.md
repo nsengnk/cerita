@@ -1,3 +1,16 @@
+# How to run this project?
+
+```bash
+# 1. Install Docker on your OS (Docker Desktop for Windows or Mac users)
+# 2. Start Docker or open Docker Desktop
+
+# Then run the project with the following commands (on your terminal)
+docker build -t cerita/dockerize-cerita . 
+docker run -it -p 8585:80 --name cerita cerita/dockerize-cerita 
+
+# The app will run here http://localhost:8585/
+```
+
 # Overview-CERITA: Creation of Repository and branches for developers
 
 CERITA project
